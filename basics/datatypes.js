@@ -1,19 +1,25 @@
-let n=23;
-let isn=String(n)
+console.log(3 
+    +
+     3) // code readability should be high
 
-let isb=1;
-let check=Boolean(isb)
-let string="sfbwifbewofbeogbu"
-console.table([n,isn,isb,check,string])
-console.table([typeof n,typeof isn,typeof isb,typeof check,typeof string])
+console.log("Aadii")
 
-//COnversion is there 
 
-console.log(3*4)
-console.log(3+ "2")
-console.log("2" + 3)
-console.log(+true)
+let name = "Aadi"
+let age = 23
+let isLoggedIn = false
+let state;
 
-//non primitive data typeaa gye h
-let aadi=["super","duper","sbse uper"]
-console.log( aadi)
+
+// bigint
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
+
+
+// object
+
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
